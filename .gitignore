@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+.DS_Store
+ruminate-*.md
+*.local.json
+Takeout/
+*.zip
